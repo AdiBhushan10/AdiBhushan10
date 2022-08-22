@@ -5,9 +5,8 @@
 
 🎓  AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified.
 
-📫 How to reach me ...
 <p>
-<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+📫 How to reach me ... <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <!---
