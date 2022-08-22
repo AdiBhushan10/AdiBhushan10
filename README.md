@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ...
 <p>
-<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Thiébaud%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 🎓  AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified.
