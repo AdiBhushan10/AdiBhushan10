@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ML, AI, Deep Learning, Computer Vision, etc.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me ...
+<p>
+<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Thiébaud%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+🎓  AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified.
 
 <!---
 AdiBhushan10/AdiBhushan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
