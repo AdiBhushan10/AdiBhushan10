@@ -7,7 +7,7 @@
 
 📫 How to reach me ...
 <p>
-<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <!---
