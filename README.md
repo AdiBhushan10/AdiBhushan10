@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdiBhushan10
 - 👀 I’m interested in Machine Learning Research and Data Science
-- 🌱 I’m currently learning ML, AI, Deep Learning, Computer Vision, etc.
+- 🌱 I’m currently learning ML, AI, Deep Learning, NLP, Machine Vision, etc.
 - 💞️ I’m looking to collaborate on Data Science projects
 <p>
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
