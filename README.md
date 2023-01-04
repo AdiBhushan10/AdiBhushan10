@@ -32,6 +32,8 @@ Please REFER my repositories for further details on my Machine Learning projects
 
 ___
 <a name="sl"></a>
+
+
 ## Supervised Learning 
 | Title | Repo |
 | --- | --- |
@@ -39,6 +41,8 @@ ___
 
 ___
 <a name="ul"></a>
+
+
 ## Unsupervised Learning 
 | Title | Repo |
 | --- | --- |
@@ -46,6 +50,8 @@ ___
     
 ___
 <a name="rl"></a>
+
+
 ## Reinforcement Learning using MarkovDecisionProcess (MDP) & Q-Learning
 | Title | Repo |
 | --- | --- |
@@ -53,6 +59,8 @@ ___
 | Implementing MDP: Forrest (Tree Cutting) using Open AI Gym  | [:link:](https://github.com/AdiBhushan10/MarkovDecisionProcess-OpenGymAI-Reinforcement-Learning) |
 ___
 <a name="nlp"></a>
+
+
 ## Natural Language Processing 
 | Title | Repo |
 | --- | --- |
@@ -62,6 +70,8 @@ ___
 
 ___
 <a name="dl"></a>
+
+
 ## Deep Learning
 | Title | Repo |
 | --- | --- |
