@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 Please REFER my repositories for further details on my Machine Learning projects!
 
-## Project Portfolio: Table Of Content
+## Project Portfolio: Table Of Contents
 1. [Supervised Learning](#sl)
 2. [Unsupervised Learning](#ul)
 3. [Reinforcement Learning](#rl)
