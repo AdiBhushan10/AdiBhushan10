@@ -38,7 +38,7 @@ ___
 | Title | Repo |
 | --- | --- |
 | Implementing Supervised Learning Algorithms | [:link:](https://github.com/AdiBhushan10/Supervised-Machine-Learning) |
-
+| Airline Delay Forecasting - Exploratory Data Analysis and Prediction using classifier | [:link:](https://github.com/AdiBhushan10/Airline-Delay-Forecasting/blob/main/Airline-Flight-Delay-Analysis-Prediction.ipynb) |
 ___
 <a name="ul"></a>
 
@@ -47,7 +47,7 @@ ___
 | Title | Repo |
 | --- | --- |
 | Implementing Unsupervised Learning Algorithms | [:link:](https://github.com/AdiBhushan10/Unsupervised-Machine-Learning) |
-    
+  
 ___
 <a name="rl"></a>
 
@@ -57,6 +57,7 @@ ___
 | --- | --- |
 | Implementing MDP: Frozen Lake 8x8 grid using Open AI Gym | [:link:](https://github.com/AdiBhushan10/MarkovDecisionProcess-OpenGymAI-Reinforcement-Learning) |
 | Implementing MDP: Forrest (Tree Cutting) using Open AI Gym  | [:link:](https://github.com/AdiBhushan10/MarkovDecisionProcess-OpenGymAI-Reinforcement-Learning) |
+| Stock Trading Bot using Q-Learning | [:link:](https://github.com/AdiBhushan10/Unsupervised-Machine-Learning) |  
 ___
 <a name="nlp"></a>
 
