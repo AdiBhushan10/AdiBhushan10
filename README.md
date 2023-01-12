@@ -103,7 +103,7 @@ ___
 <a name="dl"></a>
 
 
-## Deep Learning
+## Deep Learning 🎓 MSc. Project
 | Title | Repo |
 | --- | --- |
 | Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset| [:link:](https://github.com/AdiBhushan10/Computer-Vision) |
