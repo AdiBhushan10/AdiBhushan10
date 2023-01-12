@@ -12,7 +12,7 @@
 AdiBhushan10/AdiBhushan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/github-readme-stats)
+[![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/AdiBhushan10)
 
 [![AdiBhushan10 Repo](https://img.shields.io/static/v1?label=AdiBhushan10&message=machinelearning&color=red&logo=github)](https://github.com/AdiBhushan10?tab=repositories)
 [![stars](https://img.shields.io/github/stars/AdiBhushan10?style=social)](https://github.com/AdiBhushan10/stars)
@@ -43,7 +43,7 @@ ___
 | Hello-World-Of-Data-Science | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science) |
 
 ___
-<a name="rpr"></a>
+<a name="top"></a>
 
 
 ## Top CS Online Courses - AI ML DL NLP
