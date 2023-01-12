@@ -15,9 +15,11 @@ You can click the Preview link to take a look at your changes.
 [![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/AdiBhushan10)
 
 [![AdiBhushan10 Repo](https://img.shields.io/static/v1?label=AdiBhushan10&message=machinelearning&color=red&logo=github)](https://github.com/AdiBhushan10?tab=repositories)
-[![stars](https://img.shields.io/github/stars/AdiBhushan10?style=social)](https://github.com/AdiBhushan10/stars)
 [![snippets](https://img.shields.io/static/v1?label=codesnippets&message=templates&color=red&logo=github)](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science)
 ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
+<!---
+[![stars](https://img.shields.io/github/stars/AdiBhushan10?style=social)](https://github.com/AdiBhushan10/stars)
+--->
 
 **Languages and Tools:**    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
