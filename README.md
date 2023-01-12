@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Machine Learning Research and Data Science
 - 🌱 I’m currently learning ML, AI, Deep Learning, NLP, Machine Vision, etc.
 - 💞️ I’m looking to collaborate on Data Science projects
-- 🏆 AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified 
+- 🏆 AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University Deeplearning.AI's Machine Learning Certified
 <p>
 
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
