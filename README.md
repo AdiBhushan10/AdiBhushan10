@@ -21,15 +21,36 @@ You can click the Preview link to take a look at your changes.
 Please REFER my repositories for further details on my Machine Learning projects!
 
 ## Project Portfolio: Table Of Contents
-1. [Supervised Learning](#sl)
-2. [Unsupervised Learning](#ul)
-3. [Reinforcement Learning](#rl)
-4. [Natural Language Processing](#nlp)
-5. [Deep Learning](#dl)
+0. [Introductory Projects - Reusable Code Snippets](#rpr)
+1. [Top CS Online Courses - AI ML DL NLP](#top)
+2. [Supervised Learning](#sl)
+3. [Unsupervised Learning](#ul)
+4. [Reinforcement Learning](#rl)
+5. [Natural Language Processing](#nlp)
+6. [Deep Learning](#dl)
+
 
 
 **Academic/Professional/Hobby Projects**
 
+___
+<a name="rpr"></a>
+
+
+## Introductory Projects - Reusable Code Snippets
+| Title | Repo |
+| --- | --- |
+| Hello-World-Of-Data-Science | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science) |
+
+___
+<a name="rpr"></a>
+
+
+## Top CS Online Courses - AI ML DL NLP
+| Title | Repo |
+| --- | --- |
+| Top Online learning Repository I | [:link:](https://github.com/AdiBhushan10/awesome-courses) |
+| Top Online learning Repository II | [:link:](https://github.com/AdiBhushan10/computer-science) |
 ___
 <a name="sl"></a>
 
