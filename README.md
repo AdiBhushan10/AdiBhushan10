@@ -40,6 +40,7 @@ Please REFER my repositories for further details on my Machine Learning projects
 4. [Reinforcement Learning](#rl)
 5. [Natural Language Processing](#nlp)
 6. [Deep Learning](#dl)
+7. [Computer Vision](#cvcp)
 
 ___
 <a name="rpr"></a>
@@ -105,8 +106,16 @@ ___
 ## Deep Learning
 | Title | Repo |
 | --- | --- |
-| Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset| [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
+| Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset| [:link:](https://github.com/AdiBhushan10/Computer-Vision) |
 
+___
+<a name="cvcp"></a>
+
+
+## Computer Vision
+| Title | Repo |
+| --- | --- |
+| Selfie - Human Face Detection | [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
 ___
     
 <!--
