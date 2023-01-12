@@ -13,6 +13,7 @@ AdiBhushan10/AdiBhushan10 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 [![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/github-readme-stats)
+
 [![AdiBhushan10 Repo](https://img.shields.io/static/v1?label=AdiBhushan10&message=machinelearning&color=red&logo=github)](https://github.com/AdiBhushan10?tab=repositories)
 [![stars](https://img.shields.io/github/stars/AdiBhushan10?style=social)](https://github.com/AdiBhushan10/stars)
 [![snippets](https://img.shields.io/static/v1?label=codesnippets&message=templates&color=red&logo=github)](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science)
