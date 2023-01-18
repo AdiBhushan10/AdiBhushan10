@@ -47,6 +47,7 @@ Please REFER my repositories for further details on my Machine Learning projects
 5. [Natural Language Processing](#nlp)
 6. [Deep Learning](#dl)
 7. [Computer Vision](#cvcp)
+8. [My LeetCode Practice (Ongoing)](#leet)
 
 ___
 <a name="rpr"></a>
@@ -123,7 +124,21 @@ ___
 | --- | --- |
 | Selfie - Human Face Detection | [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
 ___
-    
+
+<a name="leet"></a>
+
+
+## MySolution - LeetCode Pactice Problems
+| Title | Repo Problems | Repo Solutions | 
+| --- | --- |
+| Leetcode-Blind-75 | [:link:](https://github.com/AdiBhushan10/My-Leetcode-Practice/blob/main/leetcode-practice.md) | [:link:](https://github.com/AdiBhushan10/My-Leetcode-Practice)
+
+___
+
+
+
+
+
 <!--
 | Placeholder | [:link:](article_link) | [:link:](github_link) |
 <a name=" "></a>
