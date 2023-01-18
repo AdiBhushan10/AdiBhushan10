@@ -128,7 +128,7 @@ ___
 <a name="leet"></a>
 
 
-## MySolution - LeetCode Pactice Problems
+## MySolution - LeetCode Practice Problems
 | Title | Repo Problems | Repo Solutions | 
 | --- | --- | --- |
 | Leetcode-Blind-75 | [:link:](https://github.com/AdiBhushan10/My-Leetcode-Practice/blob/main/leetcode-practice.md) | [:link:](https://github.com/AdiBhushan10/My-Leetcode-Practice)
