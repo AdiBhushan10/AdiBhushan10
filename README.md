@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
 
-</p>
-
+<!---
 [![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/AdiBhushan10)
+--->
+  
+</p>
 
 [![AdiBhushan10 Repo](https://img.shields.io/static/v1?label=AdiBhushan10&message=machinelearning&color=red&logo=github)](https://github.com/AdiBhushan10?tab=repositories)
 [![snippets](https://img.shields.io/static/v1?label=codesnippets&message=templates&color=red&logo=github)](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science)
