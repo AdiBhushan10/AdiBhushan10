@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 Please REFER my repositories for further details on my Machine Learning projects!
 
 ## Project Portfolio: Table Of Contents
-0. [Introductory Projects - Reusable Code Snippets](#rpr)
+0. [Introductory Projects - Reusable Code Snippets, Quick Notes](#rpr)
 1. [Top CS Online Courses - AI ML DL NLP](#top)
 2. [Supervised Learning](#sl)
 3. [Unsupervised Learning](#ul)
@@ -55,11 +55,13 @@ ___
 <a name="rpr"></a>
 
 
-## Introductory Projects - Reusable Code Snippets
+## Introductory Projects - Reusable Code Snippets, Quick Notes
 | Title | Repo |
 | --- | --- |
 | Hello-World-Of-Data-Science | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science) |
-
+| Machine-Learning-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/ML%20Quick%20Guide.pdf) |
+| Deep-Learning-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/Deep%20Learning%20NLP%20Computer%20Vision%20Quick%20Guide.pdf) |
+| Statistics-TimeSeries-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/Statistics%20Time%20Series%20Quick%20Guide.pdf) |
 ___
 <a name="top"></a>
 
