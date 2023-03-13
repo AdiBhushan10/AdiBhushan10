@@ -9,12 +9,20 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m open to collaborate on Data Science projects
 - 🏆 AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University & Deeplearning.AI's Machine Learning certified
 
+<a href="https://github.com/AdiBhushan10/AdiBhushan10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiBhushan10&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E" alt="Top programming languages"/>
+</a>
+
 <p>
 
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
 
 <!---
 [![AdiBhushan10's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiBhushan10)](https://github.com/AdiBhushan10/AdiBhushan10)
+
+<a href="https://github.com/AdiBhushan10/AdiBhushan10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdiBhushan10&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E" alt="Top programming languages"/>
+</a>
 --->
   
 </p>
