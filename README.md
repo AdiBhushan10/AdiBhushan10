@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 - 👋 Hi, I’m @AdiBhushan10
-- 👀 I’m interested in Machine Learning Research and Data Science
+- 👀 I’m interested in Analytics, Machine Learning and Data Science
 - 🌱 I’m currently learning ML, AI, Deep Learning, NLP, Machine Vision, etc.
-- 💞️ I’m open to collaborate on Data Science projects
+- 💞️ I’m open to collaborate on Data Science and Analytics projects
 - 🏆 AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University & Deeplearning.AI's Machine Learning certified
 
 <p>
