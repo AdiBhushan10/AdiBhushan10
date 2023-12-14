@@ -49,15 +49,16 @@ You can click the Preview link to take a look at your changes.
 Please REFER my repositories for further details on my Machine Learning projects!
 
 ## Project Portfolio: Table Of Contents
-0. [Introductory Projects - Reusable Code Snippets, Quick Notes](#rpr)
-1. [Top CS Online Courses - AI ML DL NLP](#top)
-2. [Supervised Learning](#sl)
-3. [Unsupervised Learning](#ul)
-4. [Reinforcement Learning](#rl)
-5. [Natural Language Processing](#nlp)
-6. [Deep Learning](#dl)
-7. [Computer Vision](#cvcp)
-8. [My LeetCode Practice (Ongoing)](#leet)
+0.0 [Introductory Projects - Reusable Code Snippets, Quick Notes](#rpr)
+0.1 [End To End Projects - Large Language Models, Quick Notes on LLMs](#llm)
+2. [Top CS Online Courses - AI ML DL NLP](#top)
+3. [Supervised Learning](#sl)
+4. [Unsupervised Learning](#ul)
+5. [Reinforcement Learning](#rl)
+6. [Natural Language Processing](#nlp)
+7. [Deep Learning](#dl)
+8. [Computer Vision](#cvcp)
+9. [My LeetCode Practice (Ongoing)](#leet)
 
 ___
 <a name="rpr"></a>
@@ -70,6 +71,16 @@ ___
 | Machine-Learning-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/ML%20Quick%20Guide.pdf) |
 | Deep-Learning-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/Deep%20Learning%20NLP%20Computer%20Vision%20Quick%20Guide.pdf) |
 | Statistics-TimeSeries-Reference-Guide | [:link:](https://github.com/AdiBhushan10/Hello-World-Of-Data-Science/blob/master/Statistics%20Time%20Series%20Quick%20Guide.pdf) |
+
+___
+<a name="llm"></a>
+
+
+## End To End Projects - Large Language Models, Quick Notes on LLMs
+| Title | Repo |
+| --- | --- |
+| Machine-Translation-Using-LLMs | [:link:](https://github.com/AdiBhushan10/End2End-LLM-NLP-Deploy-Using-MLFlow) |
+| Classification-Using-ElasticNet | [:link:](https://github.com/AdiBhushan10/End2End-MLProject-Deploy-Using-MLFlow) |
 ___
 <a name="top"></a>
 
