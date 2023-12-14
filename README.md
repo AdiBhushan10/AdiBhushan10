@@ -49,16 +49,16 @@ You can click the Preview link to take a look at your changes.
 Please REFER my repositories for further details on my Machine Learning projects!
 
 ## Project Portfolio: Table Of Contents
+0. [Top CS Online Courses - AI ML DL NLP](#top)
 1. [Introductory Projects - Reusable Code Snippets, Quick Notes](#rpr)
 2. [End To End Projects - Large Language Models, Quick Notes on LLMs](#llm)
-3. [Top CS Online Courses - AI ML DL NLP](#top)
-4. [Supervised Learning](#sl)
-5. [Unsupervised Learning](#ul)
-6. [Reinforcement Learning](#rl)
-7. [Natural Language Processing](#nlp)
-8. [Deep Learning](#dl)
-9. [Computer Vision](#cvcp)
-10. [My LeetCode Practice (Ongoing)](#leet)
+3. [Supervised Learning](#sl)
+4. [Unsupervised Learning](#ul)
+5. [Reinforcement Learning](#rl)
+6. [Natural Language Processing](#nlp)
+7. [Deep Learning](#dl)
+8. [Computer Vision](#cvcp)
+9. [My LeetCode Practice (Ongoing)](#leet)
 
 ___
 <a name="rpr"></a>
