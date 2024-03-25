@@ -130,19 +130,19 @@ ___
 | Learning NLP: Top Resource for anything NLP| [:link:](https://github.com/AdiBhushan10/NLP-Natural-Language-Processing) |
 
 ___
-<a name="dl"></a>
+<a name="cvcp"></a>
 
 
-## Deep Learning 🎓 MSc. Project
+## Computer Vision
 | Title | Repo |
 | --- | --- |
 | Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset| [:link:](https://github.com/AdiBhushan10/Computer-Vision) |
 
 ___
-<a name="cvcp"></a>
+<a name="dl"></a>
 
 
-## Computer Vision
+## Deep Learning 🎓 MSc. Project
 | Title | Repo |
 | --- | --- |
 | Selfie - Human Face Detection | [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
