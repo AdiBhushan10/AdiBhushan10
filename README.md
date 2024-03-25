@@ -136,7 +136,7 @@ ___
 ## Computer Vision
 | Title | Repo |
 | --- | --- |
-| Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset| [:link:](https://github.com/AdiBhushan10/Computer-Vision) |
+| Selfie - Human Face Detection | [:link:](https://github.com/AdiBhushan10/Computer-Vision) |
 
 ___
 <a name="dl"></a>
@@ -145,7 +145,7 @@ ___
 ## Deep Learning 🎓 MSc. Project
 | Title | Repo |
 | --- | --- |
-| Selfie - Human Face Detection | [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
+| Computer Vision + NLP: Hateful Speech Recognition in Online Memes using Facebook Research AI Dataset | [:link:](https://github.com/AdiBhushan10/Deep-Learning-NLP-ImageProcessing) |
 ___
 
 <a name="leet"></a>
