@@ -79,9 +79,9 @@ ___
 ## End To End Projects - Large Language Models, Quick Notes on LLMs
 | Title | Repo |
 | --- | --- |
+| PDF_Chatbot_Using_RAG (FAISS Vector DB) | [:link:](https://github.com/AdiBhushan10/End2End-LLM-PDF_ChatBot-Using-RAG) |
 | ChatBot-Machine-Translation-Using-LLMs | [:link:](https://github.com/AdiBhushan10/End2End-LLM-NLP-Deploy-Using-MLFlow) |
 | Classification-Using-ElasticNet | [:link:](https://github.com/AdiBhushan10/End2End-MLProject-Deploy-Using-MLFlow) |
-| PDF_Chatbot_Using_RAG (FAISS Vector DB) | [:link:](https://github.com/AdiBhushan10/End2End-LLM-PDF_ChatBot-Using-RAG) |
 ___
 <a name="top"></a>
 
