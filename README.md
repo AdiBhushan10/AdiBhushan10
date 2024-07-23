@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in applying Analytics, Machine Learning and Data Science to solve real problems
 - 🌱 I’m currently learning ML, AI, Deep Learning, NLP, Machine Vision, etc.
 - 💞️ I’m open to collaborating on Data Science and Analytics projects
-- 🏆 AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University & Deeplearning.AI's Machine Learning certified
+- 🏆 GCP Professional ML Engineer / AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University & Deeplearning.AI's Machine Learning certified
 
 <p>
 
