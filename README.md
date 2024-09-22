@@ -8,7 +8,12 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ML, AI, Deep Learning, NLP, Machine Vision, etc.
 - 💞️ I’m open to collaborating on Data Science and Analytics projects
 - 🏆 GCP Professional ML Engineer / AWS-Cloud-Practitioner / CSPO-Scrum-Alliance / Oracle-SQL-Expert certified / Stanford University & Deeplearning.AI's Machine Learning certified
-
+- Libraries and Frameworks: Keras, NL ​Toolkit, Numpy, Pandas, PySpark, PyTorch, Scikit-​learn, SciPy, Seaborn, TensorFlow
+- Machine learning: A/​B ​Testing, Algorithms, Anomaly ​Detection, Artificial ​intelligence, BERT, Big ​Data, BPE ​tokenizer, Computational ​Linguistics, Conversational ​AI, Data ​Engineering, - Data ​Mining, Data ​Modeling, Debugging, Deep ​ 
+  Learning ​Methods, Endpoint ​Deployment, Ensemble ​Methods, Generative ​AI, Generative ​model, Hypotheses ​testing, K-​means ​clustering, langchain, Language ​Model ​, Linear ​regression, Llama2, Logistic ​regression, Neural ​Networks, 
+  Quantization, Speech ​Recognition, Statistics, Supervised, Support ​Vector ​Machine ​(​SVM)​, Tagging, Text ​Classification, Text-​to-​Speech, Time ​series ​signal, Tokenization, Transformer ​models, Unsupervised, Wav2vec, word2vec, Word ​Embeddings
+- Cloud: GCP Vertex AI, Looker, AWS ​​Sagemaker, AWS Sagemaker Pipeline 
+- Databases: MongoDB, MySQL, NoSQL, SQLite
 <p>
 
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
