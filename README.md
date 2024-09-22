@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   Learning ​Methods, Endpoint ​Deployment, Ensemble ​Methods, Generative ​AI, Generative ​model, Hypotheses ​testing, K-​means ​clustering, langchain, Language ​Model ​, Linear ​regression, Llama2, Logistic ​regression, Neural ​Networks, 
   Quantization, Speech ​Recognition, Statistics, Supervised, Support ​Vector ​Machine ​(​SVM)​, Tagging, Text ​Classification, Text-​to-​Speech, Time ​series ​signal, Tokenization, Transformer ​models, Unsupervised, Wav2vec, word2vec, Word ​Embeddings
 - Cloud: GCP Vertex AI, Looker, AWS ​​Sagemaker, AWS Sagemaker Pipeline 
-- Databases: MongoDB, MySQL, NoSQL, SQLite
+- Databases: Oracle, MySQL, NoSQL, MongoDB
 <p>
 
 📫 How to reach me -> <a href="https://www.linkedin.com/in/adybhushan/"><img src="https://img.shields.io/badge/-Feed|LinkedIn%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> ![](https://visitor-badge.glitch.me/badge?page_id=AdiBhushan10.AdiBhushan10)
