@@ -56,7 +56,7 @@ Please REFER my repositories for further details on my Machine Learning projects
 ## Project Portfolio: Table Of Contents
 0. [Top CS Online Courses - AI ML DL NLP](#top)
 1. [Introductory Projects - Reusable Code Snippets, Quick Notes](#rpr)
-2. [End To End Projects - Large Language Models, Quick Notes on LLMs](#llm)
+2. [End To End Projects - Large Language Models, Generative AI, Stable Diffusuion](#llm)
 3. [Supervised Learning](#sl)
 4. [Unsupervised Learning](#ul)
 5. [Reinforcement Learning](#rl)
@@ -85,6 +85,7 @@ ___
 | Title | Repo |
 | --- | --- |
 | PDF_Chatbot_Using_RAG (FAISS Vector DB) | [:link:](https://github.com/AdiBhushan10/End2End-LLM-PDF_ChatBot-Using-RAG) |
+| Text_To_Image_Using_Stable_Diffusion | [:link:](https://github.com/AdiBhushan10/End2End-LLM-PDF_ChatBot-Using-RAG) |
 | ChatBot-Machine-Translation-Using-LLMs | [:link:](https://github.com/AdiBhushan10/End2End-LLM-NLP-Deploy-Using-MLFlow) |
 | Classification-Using-ElasticNet | [:link:](https://github.com/AdiBhushan10/End2End-MLProject-Deploy-Using-MLFlow) |
 ___
